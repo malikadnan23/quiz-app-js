@@ -1,0 +1,33 @@
+[{
+    "question":"Which is biggest city of Pakistan",
+    "choice1": "Islamabad",
+    "choice2": "karachi",
+    "choice3": "Lahore",
+   "choice4": "Peshawar",
+    "answer":2
+},
+{
+    "question":"Which is biggest city of UK",
+    "choice1": "london",
+    "choice2": "Manchester",
+    "choice3": "Wales",
+    "choice4": "SouthHall",
+    "answer":1
+},
+{
+    "question":"Which is biggest city of USA",
+    "choice1": "New York",
+    "choice2": "Torronto",
+    "choice3": "Las Vegas",
+   "choice4": "los Angeles",
+   "answer":1
+},
+{
+        "question":"Which is biggest city of Australia",
+        "choice1": "Perth",
+        "choice2": "Sydney",
+       "choice3": "Melbourne",
+        "choice4": "Canberra",
+        "answer":2
+    } 
+]
